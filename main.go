@@ -1,3 +1,4 @@
+// Package greetings returns a sting
 package greetings
 
 import "fmt"
